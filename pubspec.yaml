@@ -2,7 +2,7 @@ name: micro_app_login
 description: A new Flutter package project.
 publish_to: none
 
-version: 1.0.1
+version: 1.0.2
 homepage:
 
 environment:
@@ -14,6 +14,11 @@ dependencies:
     git:
       url: https://github.com/luiscovelo/-Curso-Micro-Core.git
       ref: v1.0.0
+
+  micro_commons_design_system:
+    git:
+      url: https://github.com/luiscovelo/-Curso-Micro-Commons-Design-System.git
+      ref: v1.0.1
 
   flutter:
     sdk: flutter
