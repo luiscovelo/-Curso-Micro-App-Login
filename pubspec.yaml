@@ -2,7 +2,7 @@ name: micro_app_login
 description: A new Flutter package project.
 publish_to: none
 
-version: 0.0.1
+version: 1.0.1
 homepage:
 
 environment:
